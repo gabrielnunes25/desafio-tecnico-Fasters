@@ -1,0 +1,12 @@
+{
+    "reporter": "junit",
+    "reporterOptions": {
+        "mochaFile": "tests/test-output-[hash].xml",
+        "toConsole": true,
+        "attachments": true
+    },
+    "video": false,
+    "viewportHeight": 720,
+    "viewportWidth": 1300,
+    "supportFile": "cypress/support/index.js"
+}

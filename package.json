@@ -1,0 +1,25 @@
+{
+    "name": "desafio-tecnico-fasters",
+    "version": "1.0.0",
+    "description": "Desafio técnico feito para empresa Fasters que consiste em automatizar uma app com Cypress.",
+    "main": "index.js",
+    "scripts": {
+        "cy:run": "cypress run",
+        "cy:open": "cypress open",
+        "cy:clear": "cypress cache clear"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gabrielnunes25/desafio-tecnico-Fasters.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gabrielnunes25/desafio-tecnico-Fasters/issues"
+    },
+    "homepage": "https://github.com/gabrielnunes25/desafio-tecnico-Fasters#readme",
+    "devDependencies": {
+        "cypress": "^9.5.2"
+    }
+}
